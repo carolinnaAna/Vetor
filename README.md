@@ -1,2 +1,2 @@
 # Vetor
-Exercícios desenvolvidos utilizando vetores!
+Exercícios desenvolvidoos usando vetores!
